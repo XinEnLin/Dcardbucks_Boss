@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\Dcardbucks_Boss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\floorlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floorlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\floorzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floorzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\player_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player_control.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player_control.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player_control.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player_control.cs",
+              "RelativeToolTip": "Assets\\Script\\Player_control.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:13:49.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FloorLayer.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\FloorLayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FloorLayer.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\FloorLayer.cs",
+              "RelativeToolTip": "Assets\\Script\\FloorLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:09:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloorZone.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\FloorZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FloorZone.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\FloorZone.cs",
+              "RelativeToolTip": "Assets\\Script\\FloorZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:08:59.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

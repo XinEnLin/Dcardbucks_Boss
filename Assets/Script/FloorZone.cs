@@ -11,11 +11,9 @@ public class FloorZone : MonoBehaviour
         {
             foreach (var floor in allFloors)
             {
-                floor.SetEnable(floor == currentFloor);
-                Debug.Log("ち传加糷" + currentFloor.gameObject.name);
-
+                floor.SetVisible(floor == currentFloor);
+                Debug.Log("ち传加糷" + currentFloor.gameObject.name);
             }
         }
     }
 }
-    
