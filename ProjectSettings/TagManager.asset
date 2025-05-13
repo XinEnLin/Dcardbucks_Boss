@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - collection
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - interactable
   - SolidObjects
-  - 
+  - little map
   - 
   - 
   - 
@@ -41,6 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: solid
+    uniqueID: 2002090007
+    locked: 0
   - name: background
     uniqueID: 762449723
     locked: 0
@@ -49,6 +54,9 @@ TagManager:
     locked: 0
   - name: foreground
     uniqueID: 3551911949
+    locked: 0
+  - name: little map
+    uniqueID: 361757501
     locked: 0
   m_RenderingLayers:
   - Default

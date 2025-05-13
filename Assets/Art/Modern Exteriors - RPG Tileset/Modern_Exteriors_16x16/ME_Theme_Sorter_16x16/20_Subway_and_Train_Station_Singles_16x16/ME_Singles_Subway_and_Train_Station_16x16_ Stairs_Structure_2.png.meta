@@ -1,0 +1,2512 @@
+fileFormatVersion: 2
+guid: 0be81908d8f4ada4e93e0e559affd180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5541619064552471153
+    second: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17abe2fad29c7ec40800000000000000
+      internalID: 5541619064552471153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b46eb096aff16c41892f41457f21f85
+      internalID: 17941747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ababeabf8995af347817da2930b443ad
+      internalID: -508817502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee3abd5b44b834bb89b20e5f90b993
+      internalID: 440499273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3595432e401c924b8ccc6521bf69bba
+      internalID: 745089964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da480ba385d8e42913203260660460
+      internalID: 815130957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067da968d577d404a9c4514ae668cde3
+      internalID: -2029511095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8e1f2fc274c242bd701721b70afbd
+      internalID: -960935773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1bb0c181bd6d24ca8661f7cb56607b
+      internalID: 1952467354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a3abbce535de489583ea1670b1f50
+      internalID: -335191747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448884aeabfdc9940a7968b937a12aca
+      internalID: 63430573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4bc246c5d3db744a82d6a82f13377a
+      internalID: 710394034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d7a934829dd84888b71c1e59ac644
+      internalID: -665010312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f586bbcd8418a04b88d7c710f0e9ae9
+      internalID: 1121289370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b681cadb09a35048bd64a1579c2d9e6
+      internalID: 33877640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631228b8a29f324f9501a21b209357a
+      internalID: -543880287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e804a3cd19390349b31802b39ceb143
+      internalID: -487010270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cc11b6cc03dce4ba5945d6f13358ad
+      internalID: 427945079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a563ba257582f43b3acd0888f74e72
+      internalID: 1138082507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66463ee36c7e74996d3f35bb80eb9e
+      internalID: 2110988831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee009e9b4963c4fba91b2ec9457c24
+      internalID: 479814764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d303fa00ccbb2604cafd368dfa6c5118
+      internalID: 1056421494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04626b5ed418334f8bd5005fa9acc3b
+      internalID: 510363700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66148c7996a0ccc4aa6787c01f387d74
+      internalID: -1556359028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb433e7cb8eeb342823b21033d95e70
+      internalID: 1330892044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed7251622d8e846a6219b1abb60aba
+      internalID: -233975741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c919f929484d44885a4fd4fc11de2b
+      internalID: 2143350694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbedcc8aef098e49af4fba02cae1e78
+      internalID: 386386415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd4e00376304345b7ae15fef1a5f25
+      internalID: 906955112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04e8bf57be218438621e3a03ca7e67
+      internalID: -946910931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe316b937ac3c3b4ba363f6ca9199616
+      internalID: 2109672201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556c3539fc20d2498b314fe6599d90b
+      internalID: -1481084975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6452391023507934abbeb612a8c59ff7
+      internalID: -1845219532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af4e10d59b4e74688e55b82e3af8a3
+      internalID: 1642430859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b35662a8ea9c54bb6620e710635f6b
+      internalID: 308837570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237073df98a69345bbf43e5dbef04cf
+      internalID: 1154411664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017533d81f43a63479ffcde95177cc60
+      internalID: -559523225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc95b909451e0ed4b81e3277145c8e25
+      internalID: 621704837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e936ae4045e94fb44a93fee62bda4
+      internalID: 956128682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7912eeef7cc2dba40a99f5370c9d705c
+      internalID: -1551227284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea741a85536eb46bef5b1e3adfae24
+      internalID: -1087400666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c2fbe172357244ca16ab6a3314e738
+      internalID: -362673220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be9cd3a327d6349a8b1866b7a80900
+      internalID: -2039884604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15905c9dd2cfd4f4cac6c595751d9ee2
+      internalID: 1431921147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781736b3cfc92844abcc77ca9f49deb
+      internalID: -55595681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefb46b559e80342b0943391f485765
+      internalID: 362043202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cbf79d76c3a64fbe3483fb6839d9b
+      internalID: 1646153214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afdd1a01776f9342bf6de1d2956de8f
+      internalID: -1767263000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4be8625da02742b58bdf51ef182df
+      internalID: 681123485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f0229499ae77649b482390d9b5cd09
+      internalID: -1400795439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4e58148f90c64c992acf0dab9e04f
+      internalID: 429784421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03aaed9f62de541b319dd822cbaffa
+      internalID: -1963523647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6318d09f6bcf9e4caa9685625c27b80
+      internalID: -1315601182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53ba672b5cb83d46bcc87d090469ae9
+      internalID: -1039736241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffefab924939104c93cde3cafc3f5ec
+      internalID: -1323698955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83cd72acb22a348bae8b5abedd081a
+      internalID: -343593946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ef0db8ec46bd4297d1fe40b16f5df
+      internalID: 654066172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea33e19670e5b41a3bd98bcb411046
+      internalID: 977652623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc266d90380bf49bd48846e7ab709f
+      internalID: 614909922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5509769f5dfe8dd4a9be4a6f02806fc0
+      internalID: 2047621878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5da2e4dcac9f4b97daee72c71da81
+      internalID: 506272387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f314d5bf6e8c5184f8dd395fe798d659
+      internalID: 977536184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c1e2530f2e4346a1893b1cf40079a
+      internalID: -1519484789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6564d7ae27f840803b76eebd82077
+      internalID: 558254423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9b7d5a24cb4042a416040edb44aaf
+      internalID: 1272644701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ab667a1105f342bfd0f96375ef4f8
+      internalID: 1778090111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17fb520c8b5748458af2dc9d5d0357e
+      internalID: -826122281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42baf1a85bd18784092dfad2e28cdd54
+      internalID: 163785591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9b0af1f42b4e4ebb94727344bdb64
+      internalID: -872410455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b393927fc14cb42a71ebf254d75073
+      internalID: 1260745505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab98dd54a65a540a808620be436b1b
+      internalID: 816386511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a52fa528907924288a77a64e409e87
+      internalID: 500976871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e9ae62044a434c947032368e7ba1f
+      internalID: -724104419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1da659fa82e440853a95d1c0869e2
+      internalID: 1445543703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89886c547124e8d43add0b2ec0fe85c6
+      internalID: 1797900748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e248447018f2364587eac6f38b8c924
+      internalID: -1151826248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c243cf2447c2a4798b07eb98afa9b3
+      internalID: -333697347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5fcd279309cb64baf5c992226fa125
+      internalID: -1891792113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6564dc20b58c4c86c0b6e3cba33f9
+      internalID: -507804321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe4975e1681d743b73ff300e15ee52
+      internalID: 1088948874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717e16f486f50b4daf834a958a59e83
+      internalID: 373558831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0478347e6b7134aaf469c8004cf776
+      internalID: -169044991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cbaa484e6543d469af8158e1b03d05
+      internalID: 395318696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953d42ec59cdc342a050abae8e7f248
+      internalID: 459444789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_84
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a604ce653b77499e4b591af8c43c7
+      internalID: -946893055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03281075cf3c834f8177f1e924fc18b
+      internalID: 1682213568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2ac918aa4b6e41896b547efc4a093
+      internalID: 368947211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea453bb401f4146b0f4cfe4bb9c8cb
+      internalID: -1493888975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_88
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c10932bd269bd4ea5d176949a0dcdd
+      internalID: -1781734002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebe02c8b169909478790008fddc0098
+      internalID: -1203862775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5becd2aec007674a99c6702bc01101c
+      internalID: -220145547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073cfd453564382428695445799b85bb
+      internalID: 1007453142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b02e4a51876c4e8d8f1584b7b6485
+      internalID: -760465936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4038310e302314f4dbd8415dcd997a8f
+      internalID: 191629218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a52d18abc08404d827af1491f9199e
+      internalID: 1550659857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463fd1074394f9c42abd390f37da9e15
+      internalID: 534339433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d3210adea12b4ebac794e2ecb9c8a
+      internalID: 1052309717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1380dfd02f02c448cad5a85de58107
+      internalID: 1199618574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_98
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a65ffb1cd402d418ae2a90a186d951
+      internalID: 1775342709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efdc4b1bf7b8294e8bff5e063eb6fb7
+      internalID: -154965487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abcab134a2cb4c4c9a60d59605ace68
+      internalID: -2086706650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c406e9580d2d44495d10a3084ba215
+      internalID: -1297559237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65038ab0b44c8c845b25cd0502de5d55
+      internalID: 1140938740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93257155e82d06145afcd42c91c0c73d
+      internalID: 1369234523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e895477eb9a7c843b503f55a10656df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_0: 5541619064552471153
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_1: 17941747
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_10: 63430573
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_100: -2086706650
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_101: -1297559237
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_102: 1140938740
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_103: 1369234523
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_11: 710394034
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_12: -665010312
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_13: 1121289370
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_14: 33877640
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_15: -543880287
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_16: -487010270
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_17: 427945079
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_18: 1138082507
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_19: 2110988831
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_2: -508817502
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_20: 479814764
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_21: 1056421494
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_22: 510363700
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_23: -1556359028
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_24: 1330892044
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_25: -233975741
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_26: 2143350694
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_27: 386386415
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_28: 906955112
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_29: -946910931
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_3: 440499273
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_30: 2109672201
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_31: -1481084975
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_32: -1845219532
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_33: 1642430859
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_34: 308837570
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_35: 1154411664
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_36: -559523225
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_37: 621704837
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_38: 956128682
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_39: -1551227284
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_4: 745089964
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_40: -1087400666
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_41: -362673220
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_42: -2039884604
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_43: 1431921147
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_44: -55595681
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_45: 362043202
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_46: 1646153214
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_47: -1767263000
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_48: 681123485
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_49: -1400795439
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_5: 815130957
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_50: 429784421
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_51: -1963523647
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_52: -1315601182
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_53: -1039736241
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_54: -1323698955
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_55: -343593946
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_56: 654066172
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_57: 977652623
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_58: 614909922
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_59: 2047621878
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_6: -2029511095
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_60: 506272387
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_61: 977536184
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_62: -1519484789
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_63: 558254423
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_64: 1272644701
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_65: 1778090111
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_66: -826122281
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_67: 163785591
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_68: -872410455
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_69: 1260745505
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_7: -960935773
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_70: 816386511
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_71: 500976871
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_72: -724104419
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_73: 1445543703
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_74: 1797900748
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_75: -1151826248
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_76: -333697347
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_77: -1891792113
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_78: -507804321
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_79: 1088948874
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_8: 1952467354
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_80: 373558831
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_81: -169044991
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_82: 395318696
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_83: 459444789
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_84: -946893055
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_85: 1682213568
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_86: 368947211
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_87: -1493888975
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_88: -1781734002
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_89: -1203862775
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_9: -335191747
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_90: -220145547
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_91: 1007453142
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_92: -760465936
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_93: 191629218
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_94: 1550659857
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_95: 534339433
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_96: 1052309717
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_97: 1199618574
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_98: 1775342709
+      ME_Singles_Subway_and_Train_Station_16x16_ Stairs_Structure_2_99: -154965487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

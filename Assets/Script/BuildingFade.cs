@@ -1,14 +1,18 @@
 ﻿using UnityEngine;
-using UnityEngine.Tilemaps; // 要有這行才能用 Tilemap
+using UnityEngine.Tilemaps;
 using System.Collections;
 
 public class BuildingFade : MonoBehaviour
 {
     private Tilemap tilemap;
-    public float fadeAlpha = 0.5f; // 透明度（0~1）
-    public float fadeDuration = 0.5f;  // 漸變持續時間（秒）
+
+    public float fadeAlpha = 0f;
+    public float fadeDuration = 0.5f;
+
     private float originalAlpha;
     private Coroutine fadeCoroutine;
+
+    public Transform playerTransform; // 👈 需手動指派玩家
 
     private void Awake()
     {
@@ -23,28 +27,31 @@ public class BuildingFade : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void Update()
     {
-        if (collision.CompareTag("Player"))
+        if (playerTransform == null) return;
+
+        Vector3 playerWorldPos = playerTransform.position;
+        Vector3Int playerCellPos = tilemap.WorldToCell(playerWorldPos);
+
+        TileBase currentTile = tilemap.GetTile(playerCellPos);
+
+        if (currentTile != null)
         {
-
-            if (fadeCoroutine != null)
-                StopCoroutine(fadeCoroutine);
-
-            fadeCoroutine = StartCoroutine(FadeToAlpha(fadeAlpha));
+            if (fadeCoroutine == null)
+            {
+                fadeCoroutine = StartCoroutine(FadeToAlpha(fadeAlpha));
+            }
+        }
+        else
+        {
+            if (fadeCoroutine == null && tilemap.color.a < originalAlpha)
+            {
+                fadeCoroutine = StartCoroutine(FadeToAlpha(originalAlpha));
+            }
         }
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-        {
-            if (fadeCoroutine != null)
-                StopCoroutine(fadeCoroutine);
-
-            fadeCoroutine = StartCoroutine(FadeToAlpha(originalAlpha));
-        }
-    }
 
     private IEnumerator FadeToAlpha(float targetAlpha)
     {
@@ -64,8 +71,9 @@ public class BuildingFade : MonoBehaviour
             yield return null;
         }
 
-        // 保證最後透明度精確到達目標值
         color.a = targetAlpha;
         tilemap.color = color;
+        fadeCoroutine = null;
     }
 }
+

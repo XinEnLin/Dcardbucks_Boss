@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public enum GameState { FreeRoam, Dialog, Battle }
 public class gameControl : MonoBehaviour
@@ -11,6 +12,8 @@ public class gameControl : MonoBehaviour
 
     private void Start()
     {
+        SceneManager.LoadScene("Menu",LoadSceneMode.Additive);
+
         DialogManager.instance.OnShowDialog += () =>//當 DialogManager 發出「要顯示對話」的通知時，就把遊戲狀態 state 改成 GameState.Dialog。
         {
             state = GameState.Dialog;
