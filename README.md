@@ -28,40 +28,39 @@
 
 ## 📂 腳本結構（Script 資料夾說明）
 
+```plaintext
 Script/
-├── AI/ # AI 聊天模組（Ollama/GPT）
-│ ├── GPTDialog.cs → 串接 OpenAI GPT API
-│ └── OllamaDialog.cs → 串接本地 FastAPI 語言模型
+├── AI/                        -> AI 聊天模組（Ollama / GPT）
+│   ├── GPTDialog.cs           -> 串接 OpenAI GPT API
+│   └── OllamaDialog.cs        -> 串接本地 FastAPI 模型
 │
-├── Building/ # 建築物控制
-│ ├── BuildingFade.cs → 玩家進入時建築淡出透明
-│ ├── FloorLayer.cs → 控制單一樓層顯示
-│ └── FloorZone.cs → 當玩家進入區域時切換樓層
+├── Building/                 -> 建築相關模組
+│   ├── BuildingFade.cs        -> 玩家進入時建築淡出透明
+│   ├── FloorLayer.cs          -> 控制單一樓層顯示 / 隱藏
+│   └── FloorZone.cs           -> 玩家進入區域時切換樓層
 │
-├── Dialog/ # 對話系統
-│ ├── Dialog.cs → 對話資料（ScriptableObject）
-│ ├── DialogBuilder.cs → 動態建立對話物件
-│ └── DialogManager.cs → 控制對話流程與輸入處理
+├── Dialog/                   -> 對話系統模組
+│   ├── Dialog.cs              -> 對話資料容器（ScriptableObject）
+│   ├── DialogBuilder.cs       -> 動態建立對話內容
+│   └── DialogManager.cs       -> 控制對話框顯示與打字動畫
 │
-├── Enemy/ # 敵人邏輯模組
-│ ├── Enemy.cs → 敵人追蹤、移動、攻擊
-│ ├── AttackZone.cs → 敵人攻擊範圍與冷卻邏輯
-│ └── DetectionZone.cs → 偵測玩家進入後開始追擊
+├── Enemy/                    -> 敵人 AI 模組
+│   ├── Enemy.cs               -> 敵人追蹤與移動控制
+│   ├── AttackZone.cs          -> 攻擊區域、冷卻與扣血邏輯
+│   └── DetectionZone.cs       -> 偵測玩家進入並開始追蹤
 │
-├── NPC/ # NPC 控制邏輯
-│ └── NPCcontrol.cs → NPC 接收互動 + 呼叫 AI 回覆
+├── NPC/                      -> NPC 互動模組
+│   └── NPCcontrol.cs          -> 接收玩家互動並呼叫 AI 對話
 │
-├── Player/ # 玩家控制邏輯
-│ ├── Player_control.cs → 玩家移動與互動處理
-│ └── Player_health.cs → 玩家扣血與擊退處理
+├── Player/                   -> 玩家控制模組
+│   ├── Player_control.cs      -> 移動、動畫、互動邏輯
+│   └── Player_health.cs       -> 扣血與擊退處理
 │
-├── gameControl.cs → 遊戲狀態控制器（自由/對話/戰鬥）
-├── Phone.cs → 手機 UI 控制與聊天輸入
-├── interactable.cs → 可被 F 鍵互動的共用介面
+├── gameControl.cs            -> 遊戲狀態控制（自由/對話/戰鬥）
+├── Phone.cs                  -> 手機 UI 開啟、輸入與 AI 回覆
+├── interactable.cs           -> 可互動物件介面（供 NPC 使用）
+```
 
-yaml
-複製
-編輯
 
 ---
 
