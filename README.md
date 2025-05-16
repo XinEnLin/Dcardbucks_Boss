@@ -1,53 +1,113 @@
-﻿# 🏡 Dcardbucks - 2D Pixel RPG 專案
+﻿# 🏡 我的鳳梨學院 - 2D Pixel RPG 專案
 
 ## 🎯 專案簡介
-本專案是一款以 2D 像素風格製作的 RPG 小遊戲，玩家可以在村莊中自由移動、與 NPC 互動、體驗來自 Dcard 留言創建的人物故事。
-
-## 🎮 遊戲玩法
-- 使用方向鍵移動角色（上下左右單一方向）
-- 按 `Z` 鍵與 NPC 互動開啟對話
-- 進入建築物門口，建築會自動透明化
-- 支援地圖自動遮擋效果（頭擋腳）
-- 對話系統支援打字動畫效果
-
-## 🛠️ 開發技術與工具
-- **Unity** 2021 / 2022
-- **C#**
-- **2D Tilemap 系統**（地圖拼接）
-- **Rigidbody2D + Collider2D**（角色移動與碰撞）
-- **事件系統**（DialogManager 控制遊戲狀態）
-- **Coroutine**（實現透明度漸變效果）
-
-## 📂 專案結構（重要資料夾）
-- `Assets/Scripts/`：所有自製 C# 腳本
-- `Assets/Tilemaps/`：場景地圖資源
-- `Assets/Sprites/`：角色與物件圖片
-- `Assets/Scenes/`：Unity 場景檔案
-
-## 📦 開發紀錄（Changelog）
-
-### 2025-04-29
-- 玩家移動系統
-- 建築物透明化
-- NPC 對話系統
-- 基礎地圖遮擋系統
-
-### 2025-05-04
-- 加入NPC對話系統
-- 建立成就蒐集系統
-
-### 2025-05-12
-- 怪物：蟲蟲、哥布林
-
-## 📖 安裝與執行
-1. 下載本專案或 Clone 下來
-2. 使用 Unity Hub 打開
-3. 直接開啟 `Assets/Scenes/MainScene.unity`
-4. 按 `Play` 開始遊戲
-
-## 🙏 特別感謝
-- 感謝 OpenGameArt.org 提供免費像素資源
-- 參考 YouTube 教學影片《Unity 2D RPG 系列》
-- 使用 Unity 官方文檔資料學習 Tilemap、Collider 系統
+這是一款以 2D 像素風格製作的校園 RPG 遊戲，玩家能在校園中自由探索、與 NPC 聊天互動，甚至體驗來自 Dcard 真實留言生成的 AI 角色對話。遊戲以模組化方式設計，具備地圖遮擋、建築透明、怪物追擊與攻擊、樓層顯示控制等完整功能。
 
 ---
+
+## 🎮 遊戲玩法
+- 使用方向鍵或 WASD 控制角色上下左右單方向移動
+- 按下 `F` 與 NPC 互動，展開對話（支援 AI 回應）
+- 按下 `Tab` 呼叫手機，輸入訊息與 AI 聊天
+- 玩家接近建築會使建築淡出透明
+- 樓梯區域自動切換樓層顯示
+- 敵人靠近會追擊並攻擊，玩家會扣血與擊退
+
+---
+
+## 🛠️ 開發技術與工具
+- Unity 2021 / 2022（2D 專案模板）
+- C# 腳本編寫
+- Tilemap + Sorting Layer 管理遮擋
+- Rigidbody2D + Trigger 判斷碰撞
+- ScriptableObject 對話資料管理
+- Coroutine 實作打字與透明效果
+- 自製 AI 聊天：串接本地 FastAPI / Ollama / GPT API
+
+---
+
+## 📂 腳本結構（Script 資料夾說明）
+
+Script/
+├── AI/ # AI 聊天模組（Ollama/GPT）
+│ ├── GPTDialog.cs → 串接 OpenAI GPT API
+│ └── OllamaDialog.cs → 串接本地 FastAPI 語言模型
+│
+├── Building/ # 建築物控制
+│ ├── BuildingFade.cs → 玩家進入時建築淡出透明
+│ ├── FloorLayer.cs → 控制單一樓層顯示
+│ └── FloorZone.cs → 當玩家進入區域時切換樓層
+│
+├── Dialog/ # 對話系統
+│ ├── Dialog.cs → 對話資料（ScriptableObject）
+│ ├── DialogBuilder.cs → 動態建立對話物件
+│ └── DialogManager.cs → 控制對話流程與輸入處理
+│
+├── Enemy/ # 敵人邏輯模組
+│ ├── Enemy.cs → 敵人追蹤、移動、攻擊
+│ ├── AttackZone.cs → 敵人攻擊範圍與冷卻邏輯
+│ └── DetectionZone.cs → 偵測玩家進入後開始追擊
+│
+├── NPC/ # NPC 控制邏輯
+│ └── NPCcontrol.cs → NPC 接收互動 + 呼叫 AI 回覆
+│
+├── Player/ # 玩家控制邏輯
+│ ├── Player_control.cs → 玩家移動與互動處理
+│ └── Player_health.cs → 玩家扣血與擊退處理
+│
+├── gameControl.cs → 遊戲狀態控制器（自由/對話/戰鬥）
+├── Phone.cs → 手機 UI 控制與聊天輸入
+├── interactable.cs → 可被 F 鍵互動的共用介面
+
+yaml
+複製
+編輯
+
+---
+
+## 🧪 開發紀錄（Changelog）
+
+### ✅ 2025-04-29
+- 實作基本玩家移動控制
+- 實作建築淡出與 Tilemap 遮擋
+- 建立對話框 UI 與逐字顯示功能
+
+### ✅ 2025-05-04
+- 新增 NPC 互動對話系統（整合 Dcard 設定）
+- 支援成就收集（櫻桃）
+
+### ✅ 2025-05-12
+- 敵人 AI 追擊與攻擊邏輯
+- 玩家被攻擊會扣血與向後推退
+- 手機 UI 串接本地 Ollama API 對話
+
+---
+
+## ▶️ 安裝與執行方式
+
+1. **下載專案** 或 `git clone` 本倉庫
+2. 使用 Unity Hub 加入專案
+3. 開啟 `Assets/Scenes/MainScene.unity`（或其他主場景）
+4. 點擊 `▶️ Play` 開始遊戲
+
+---
+
+## 💡 功能規劃（未來可擴充）
+
+- [ ] 加入血條 UI（搭配 Player_health）
+- [ ] 對話選項與分支選擇
+- [ ] 玩家輸入自由提問 NPC（手機與對話皆支援）
+- [ ] 任務系統與地圖傳送點
+- [ ] AI 角色記憶與情感系統
+
+---
+
+## 🙏 特別感謝
+
+- [OpenGameArt.org](https://opengameart.org/) 提供免費角色素材
+- 參考 YouTube 教學：《Brackeys》、《Pixeland》、《Blackthornprod》
+- Unity 官方文檔：Tilemap、2D Physics、Coroutine 教學
+
+---
+
+🎓 本專案為課程《程式設計（二）》期末專題，由學生自製，學習 Unity 遊戲開發、AI 對話整合、遊戲系統
