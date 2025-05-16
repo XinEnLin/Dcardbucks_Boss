@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\unity\\Dcardbucks_Boss\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\player\\player_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\player_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|D:\\unity\\Dcardbucks_Boss\\assets\\script\\player\\player_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|d:\\unity\\dcardbucks_boss\\assets\\script\\player_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|D:\\unity\\Dcardbucks_Boss\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|D:\\unity\\Dcardbucks_Boss\\assets\\script\\ollamadialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ollamadialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|D:\\unity\\Dcardbucks_Boss\\assets\\script\\enemy\\attackzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\attackzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|D:\\unity\\Dcardbucks_Boss\\assets\\script\\enemy\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1794D836-E1A2-04B3-3967-61B3BEA93EDE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
-              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAABBwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Player_control.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player\\Player_control.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player_control.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player\\Player_control.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Player_control.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywJ8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:09:08.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T11:54:39.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Player_health.cs",
-              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player_health.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player_health.cs",
-              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player_health.cs",
-              "RelativeToolTip": "Assets\\Script\\Player_health.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAywAsAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player\\Player_health.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player_health.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player\\Player_health.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Player_health.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:55:05.642Z",
+              "WhenOpened": "2025-05-14T13:33:27.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player_control.cs",
-              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player_control.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player_control.cs",
-              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Player_control.cs",
-              "RelativeToolTip": "Assets\\Script\\Player_control.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJIAAAAHAAAAAAAAAA==",
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:19:18.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T13:15:49.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetectionZone.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy\\DetectionZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\DetectionZone.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy\\DetectionZone.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\DetectionZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:27:32.573Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OllamaDialog.cs",
-              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\OllamaDialog.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\OllamaDialog.cs",
-              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\OllamaDialog.cs",
-              "RelativeToolTip": "Assets\\Script\\OllamaDialog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "AttackZone.cs",
+              "DocumentMoniker": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy\\AttackZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\AttackZone.cs",
+              "ToolTip": "D:\\unity\\Dcardbucks_Boss\\Assets\\Script\\Enemy\\AttackZone.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\AttackZone.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywBYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:40:46.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T13:16:20.885Z"
             }
           ]
         }
