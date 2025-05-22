@@ -139,11 +139,11 @@ public class player_control : MonoBehaviour
             // 根據玩家與敵人位置計算擊退方向
             if (transform.position.x < collision.transform.position.x)
             {
-                rb.velocity = new Vector2(-knockbackForce, rb.velocity.y);
+                rb.linearVelocity = new Vector2(-knockbackForce, rb.linearVelocity.y);
             }
             else
             {
-                rb.velocity = new Vector2(knockbackForce, rb.velocity.y);
+                rb.linearVelocity = new Vector2(knockbackForce, rb.linearVelocity.y);
             }
 
             isHurt = true;
